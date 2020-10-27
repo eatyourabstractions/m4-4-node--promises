@@ -1,0 +1,1 @@
+GET https://api.opencagedata.com/geocode/v1/json?q=48.8584+2.2945&key=f6372d8a95764c3da078b43e76e3d76f
